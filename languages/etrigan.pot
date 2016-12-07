@@ -1,0 +1,679 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Etrigan\n"
+"POT-Creation-Date: 2015-12-15 19:57+0530\n"
+"PO-Revision-Date: 2015-12-15 19:57+0530\n"
+"Last-Translator: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language-Team: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:18 content-single.php:26 content.php:29
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:25 inc/template-tags.php:122 inc/template-tags.php:262
+#: inc/template-tags.php:298
+msgid "Edit"
+msgstr ""
+
+#: content.php:22
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:17
+#, php-format
+msgid "Powered by %1$s."
+msgstr ""
+
+#: footer.php:19
+msgid ". All Rights Reserved. "
+msgstr ""
+
+#: framework/layouts/content-grid.php:22
+#: framework/layouts/content-grid_2_column.php:22
+msgid "Read More"
+msgstr ""
+
+#: framework/theme-functions.php:108 framework/theme-functions.php:135
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: framework/widgets/recent-posts.php:13
+msgid "Etrigan Recent Posts with Thumbnails"
+msgstr ""
+
+#: framework/widgets/recent-posts.php:14
+msgid "Display your recent posts, with a Thumbnail."
+msgstr ""
+
+#: framework/widgets/recent-posts.php:23
+msgid "Latest Posts"
+msgstr ""
+
+#: framework/widgets/recent-posts.php:84
+msgid "Latest Articles"
+msgstr ""
+
+#: framework/widgets/recent-posts.php:90
+msgid "5"
+msgstr ""
+
+#: framework/widgets/recent-posts.php:94
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets/recent-posts.php:97
+msgid "No. of Posts:"
+msgstr ""
+
+#: framework/woocommerce.php:138 header.php:79
+msgid "View your shopping cart"
+msgstr ""
+
+#: framework/woocommerce.php:139 header.php:80
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:101
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:111
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:120
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:129
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:138
+msgid "Footer 4"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Title, Tagline & Logo"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Resize & Adjust Logo"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Site Tagline Color"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Basic Settings"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Disable Description of Menu Items"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Hide Title and Tagline."
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Enable Slider on HomePage."
+msgstr ""
+
+#: inc/customizer.php:196
+msgid "No. of Slides(Min:0, Max: 10)"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "Save the Settings, and Reload this page to Configure the Slides."
+msgstr ""
+
+#: inc/customizer.php:244
+msgid "Slide Title"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Slide Description"
+msgstr ""
+
+#: inc/customizer.php:274
+msgid "Custom Call to Action Button Text(Optional)"
+msgstr ""
+
+#: inc/customizer.php:288
+msgid "Target URL"
+msgstr ""
+
+#: inc/customizer.php:335 inc/customizer.php:531
+msgid "Enable Square Boxes & Posts Slider."
+msgstr ""
+
+#: inc/customizer.php:350 inc/customizer.php:546
+msgid "Title for the Boxes"
+msgstr ""
+
+#: inc/customizer.php:366
+msgid "Product Category."
+msgstr ""
+
+#: inc/customizer.php:378 inc/customizer.php:574
+msgid "3D Cube Products Slider"
+msgstr ""
+
+#: inc/customizer.php:394 inc/customizer.php:590
+msgid "Title for the Slider"
+msgstr ""
+
+#: inc/customizer.php:408 inc/customizer.php:604
+msgid "No. of Posts(Min:3, Max: 10)"
+msgstr ""
+
+#: inc/customizer.php:431 inc/customizer.php:627
+msgid "Category For Slider."
+msgstr ""
+
+#: inc/customizer.php:445 inc/customizer.php:641
+msgid "Top CoverFlow Slider"
+msgstr ""
+
+#: inc/customizer.php:459 inc/customizer.php:669
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer.php:476 inc/customizer.php:686
+msgid "Category For Image Grid"
+msgstr ""
+
+#: inc/customizer.php:491 inc/customizer.php:701
+msgid "Max No. of Posts in the Grid. Min: 5."
+msgstr ""
+
+#: inc/customizer.php:562
+msgid "Posts Category."
+msgstr ""
+
+#: inc/customizer.php:655
+msgid "Title for the Coverflow"
+msgstr ""
+
+#: inc/customizer.php:714
+msgid "Design & Layout"
+msgstr ""
+
+#: inc/customizer.php:720
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:741
+msgid "Select Layout"
+msgstr ""
+
+#: inc/customizer.php:746
+msgid "Standard Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:747
+msgid "Etrigan Theme Layout"
+msgstr ""
+
+#: inc/customizer.php:748
+msgid "Etrigan Theme Layout (3 Columns)"
+msgstr ""
+
+#: inc/customizer.php:749
+msgid "Grid - 2 Column"
+msgstr ""
+
+#: inc/customizer.php:757
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:771
+msgid "Disable Sidebar Everywhere."
+msgstr ""
+
+#: inc/customizer.php:786
+msgid "Disable Sidebar on Home/Blog."
+msgstr ""
+
+#: inc/customizer.php:802
+msgid "Disable Sidebar on Front Page."
+msgstr ""
+
+#: inc/customizer.php:821
+msgid "Sidebar Width"
+msgstr ""
+
+#: inc/customizer.php:822
+msgid "Min: 25%, Default: 33%, Max: 40%"
+msgstr ""
+
+#: inc/customizer.php:860
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:861
+msgid "Enter your Custom CSS to Modify design."
+msgstr ""
+
+#: inc/customizer.php:895
+msgid "Custom Footer Text"
+msgstr ""
+
+#: inc/customizer.php:896
+msgid "Enter your Own Copyright Text."
+msgstr ""
+
+#: inc/customizer.php:924
+msgid "Choose Skin"
+msgstr ""
+
+#: inc/customizer.php:937
+msgid "Default(blue)"
+msgstr ""
+
+#: inc/customizer.php:938
+msgid "Orange"
+msgstr ""
+
+#: inc/customizer.php:939
+msgid "Brown"
+msgstr ""
+
+#: inc/customizer.php:940
+msgid "Green"
+msgstr ""
+
+#: inc/customizer.php:941
+msgid "GrayScale"
+msgstr ""
+
+#: inc/customizer.php:964
+msgid "Google Web Fonts"
+msgstr ""
+
+#: inc/customizer.php:966
+msgid "Defaults: Droid Serif, Ubuntu."
+msgstr ""
+
+#: inc/customizer.php:990
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:1006
+msgid "Body"
+msgstr ""
+
+#: inc/customizer.php:1016
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer.php:1021
+msgid "-"
+msgstr ""
+
+#: inc/customizer.php:1022
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:1023
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:1024
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer.php:1025
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer.php:1026
+msgid "RSS Feeds"
+msgstr ""
+
+#: inc/customizer.php:1027
+msgid "Vine"
+msgstr ""
+
+#: inc/customizer.php:1028
+msgid "Vimeo"
+msgstr ""
+
+#: inc/customizer.php:1029
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer.php:1030
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer.php:1045 inc/customizer.php:1058
+msgid "Icon "
+msgstr ""
+
+#: inc/customizer.php:1058
+msgid " Url"
+msgstr ""
+
+#: inc/customizer.php:1088
+msgid "Etrigan Theme - Help & Support"
+msgstr ""
+
+#: inc/customizer.php:1103
+msgid "Thank You"
+msgstr ""
+
+#: inc/customizer.php:1104
+msgid ""
+"Thank You for Choosing Etrigan Theme by Rohitink.com. Etrigan is a Powerful "
+"Wordpress theme which also supports WooCommerce in the best possible way. It "
+"is \"as we say\" the last theme you would ever need. It has all the basic "
+"and advanced features needed to run a gorgeous looking site. For any Help "
+"related to this theme, please visit  <a href=\"https://rohitink."
+"com/2015/05/21/etrigan-woocommerce-theme/\">Etrigan Help & Support</a>."
+msgstr ""
+
+#: inc/extras.php:64
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/jetpack.php:33
+msgid "Load more..."
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:104 inc/template-tags.php:110
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:106
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:112
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:118
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:118
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:118
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:139
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:141
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:143
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:145
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:145
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:147
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:147
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:149
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:149
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:151
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:153
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:169
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:173
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:262
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:277
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:283
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform-top.php:3 searchform-top.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform-top.php:4
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""

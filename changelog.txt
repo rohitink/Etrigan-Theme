@@ -1,0 +1,73 @@
+ChangeLog
+=========
+
+Version 0.9
+
+	i) Initial Release.
+	
+Version 0.91
+
+	i) Added Minified Versions of js files
+	ii)	Deleted hidden files
+	iii) Removed Theme Prefixes for External scripts while enqueing
+	iv) Replaced the_title with the_title_attribute function for attrs.
+	v) Removed the Archive Description and Title Functions.
+	vi) Added Prefixes for Theme Defined Classes/Functions/Filters.
+	vii) Proper Sanitization for Custom CSS
+	viii) Other minor changes.
+	
+Version 0.92
+
+	i) Fixed Default Menu issues.	
+	
+Version 0.93
+
+	i) Improved Custom CSS Rendering.
+	ii) Fixed A Few Translation issues.
+	iii) Restricted Max slides to 3.
+	iv) Other few Bug fixes.	
+	
+Version 0.94
+
+	i) Removed Redundant functions.	
+	ii) And few other minor changes.
+
+Version 1.0
+
+	i) WooCommerce Star Ratings fixed.
+	ii) Header img overlap fixed.
+	iii) Added Pro Link.	
+	iv) Removed Duplicate Section from Customizer
+	
+Version 1.0.1
+
+	i) Fixed Skins not Working Properly.
+	ii) Added a New Skin - Organge & Red.	
+	
+Version 1.0.1.1
+
+	i) Fixed a Bug which caused infinite overflow(scroll) on Firefox Browsers.
+	
+Version 1.0.1.2
+
+	i) Loaded Admin Styles Properly, using the right hook.
+	ii) Escaped Fonts while Enqueuing	
+	
+Version 1.0.1.3
+
+	i) Fixed Comment Readability Issues, and extra space b/w author and comment	
+	ii) Search bar now looks more similar to the current skin
+	
+Version 1.0.1.4
+
+	i) Fixed Theme Tags
+	ii) Strip Tags for Custom CSS	
+	
+Version 1.0.1.5
+
+	i) Few i18n fixes.
+	ii) Slider fixed for front page.	
+	
+Version 1.0.1.6
+
+	i) Changed Footer Link to nofollow	
