@@ -71,3 +71,7 @@ Version 1.0.1.5
 Version 1.0.1.6
 
 	i) Changed Footer Link to nofollow	
+	
+Version 1.0.2
+
+	i) Fixed Display of Related Products on iPhone	
