@@ -75,3 +75,7 @@ Version 1.0.1.6
 Version 1.0.2
 
 	i) Fixed Display of Related Products on iPhone	
+	
+Version 1.0.3
+
+	i) Removed Duplicate Loading of Fonts	
